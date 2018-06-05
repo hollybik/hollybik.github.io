@@ -5,7 +5,7 @@ description:        "Marine Biology and Data Science"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/nem-logo.png'
-background:         'assets/img/sept16-2-hires.jpg'
+background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://biklab.github.io
