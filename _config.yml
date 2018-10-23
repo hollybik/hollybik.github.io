@@ -5,7 +5,7 @@ description:        "My thoughts on marine biology, genomics, and bioinformatics
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/nem-logo.png'
-background:         https://hollybik.github.io/assets/img/eifuku_champagne_vent_hires.jpg
+background:         https://hollybik.github.io/assets/img/sept16-2-hires-big.jpg
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://hollybik.github.io
