@@ -1,7 +1,7 @@
 # Site
 title:              Holly Bik
-bio:                'Marine biology, genomics, and bioinformatics'
-description:        "Musings on marine biology, bioinformatics, and academic life"
+bio:                'marine biology, bioinformatics, and academic life'
+description:        "marine biology, bioinformatics, and academic life"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/nem-logo.png'
